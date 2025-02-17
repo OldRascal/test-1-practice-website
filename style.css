@@ -47,7 +47,7 @@ body{
     margin: 0 auto;
 }
 .header{
-    background-image: url(/images/bg.png);
+    background-image: url(./images/bg.png);
     background-repeat: no-repeat;
     background-position: top center;
     min-height: 100vh;
